@@ -1,3 +1,9 @@
 [submodule "TextViewUpdate"]
 	path = TextViewUpdate
 	url = https://github.com/gbertao/TextViewUpdate.git
+[submodule "PrimeFinderUI-Android"]
+	path = PrimeFinderUI-Android
+	url = https://github.com/gbertao/PrimeFinderUI-Android
+[submodule "TimeAttackTyping"]
+	path = TimeAttackTyping
+	url = https://github.com/gbertao/TimeAttackTyping.git
