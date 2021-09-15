@@ -7,3 +7,6 @@
 [submodule "TimeAttackTyping"]
 	path = TimeAttackTyping
 	url = https://github.com/gbertao/TimeAttackTyping.git
+[submodule "Echo-Server"]
+	path = Echo-Server
+	url = https://github.com/gbertao/Echo-Server.git
