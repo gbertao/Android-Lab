@@ -10,3 +10,6 @@
 [submodule "Echo-Server"]
 	path = Echo-Server
 	url = https://github.com/gbertao/Echo-Server.git
+[submodule "MultiActivityApp"]
+	path = MultiActivityApp
+	url = https://github.com/gbertao/MultiActivityApp.git
