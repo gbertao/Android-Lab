@@ -13,3 +13,6 @@
 [submodule "MultiActivityApp"]
 	path = MultiActivityApp
 	url = https://github.com/gbertao/MultiActivityApp.git
+[submodule "AppHelloFromC"]
+	path = AppHelloFromC
+	url = https://github.com/gbertao/AppHelloFromC.git
